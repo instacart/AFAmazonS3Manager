@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import "AFURLResponseSerialization.h"
+#import <AFNetworking/AFNetworking.h>
 
 /**
  Returns an `AFAmazonS3ResponseObject` object from the AmazonS3 HTTP response
